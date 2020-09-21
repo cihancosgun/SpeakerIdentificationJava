@@ -1,0 +1,14 @@
+/home/cihan/github_cihan/Voice Recognition/java/SpeakerIdentificationJava/src/main/java/org/tspb/speakeridentificationjava/neural_network/Network.java
+/home/cihan/github_cihan/Voice Recognition/java/SpeakerIdentificationJava/src/main/java/org/tspb/speakeridentificationjava/gui/UserInterface.java
+/home/cihan/github_cihan/Voice Recognition/java/SpeakerIdentificationJava/src/main/java/org/tspb/speakeridentificationjava/mfcc_processing/FFT.java
+/home/cihan/github_cihan/Voice Recognition/java/SpeakerIdentificationJava/src/main/java/org/tspb/speakeridentificationjava/mfcc_processing/WavWrite.java
+/home/cihan/github_cihan/Voice Recognition/java/SpeakerIdentificationJava/src/main/java/org/tspb/speakeridentificationjava/mfcc_processing/MelFilterBank.java
+/home/cihan/github_cihan/Voice Recognition/java/SpeakerIdentificationJava/src/main/java/org/tspb/speakeridentificationjava/mfcc_processing/Complex.java
+/home/cihan/github_cihan/Voice Recognition/java/SpeakerIdentificationJava/src/main/java/org/tspb/speakeridentificationjava/mfcc_processing/MFCC.java
+/home/cihan/github_cihan/Voice Recognition/java/SpeakerIdentificationJava/src/main/java/org/tspb/speakeridentificationjava/gui/TrainProgressing.java
+/home/cihan/github_cihan/Voice Recognition/java/SpeakerIdentificationJava/src/main/java/org/tspb/speakeridentificationjava/Main.java
+/home/cihan/github_cihan/Voice Recognition/java/SpeakerIdentificationJava/src/main/java/org/tspb/speakeridentificationjava/mfcc_processing/KMeans.java
+/home/cihan/github_cihan/Voice Recognition/java/SpeakerIdentificationJava/src/main/java/org/tspb/speakeridentificationjava/neural_network/Layer.java
+/home/cihan/github_cihan/Voice Recognition/java/SpeakerIdentificationJava/src/main/java/org/tspb/speakeridentificationjava/mfcc_processing/WavRead.java
+/home/cihan/github_cihan/Voice Recognition/java/SpeakerIdentificationJava/src/main/java/org/tspb/speakeridentificationjava/neural_network/Neuron.java
+/home/cihan/github_cihan/Voice Recognition/java/SpeakerIdentificationJava/src/main/java/org/tspb/speakeridentificationjava/gui/TestProgressing.java
